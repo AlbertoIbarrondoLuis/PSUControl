@@ -1,0 +1,20 @@
+Heurística de Nielsen
+Requisito/Restriccion
+Prioridades:
+Alta7Esencial
+Media/Deseada
+Baja/Opcional
+
+
+
+EVS - Identificacion de Requisitos
+
+Pruebas que tienen que funcionar y que NO tienen que funcionar.
+Estudio dle avance del proyecto según las pruebas superadas.
+
+Diagrama de clases
+Diagrama de Componentes y de Despliegue
+
+
+Usi de objetos excel en los word.
+barra de acceso rapido.

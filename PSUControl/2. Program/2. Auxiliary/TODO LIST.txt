@@ -1,0 +1,7 @@
+Módulo de manejo de errores
+
+config -> cambiarlevels ADC en defineConstants
+
+Memoria para los valores anteriores del AGC
+
+Cambiar los voltajes para psus 10 y 11 (negativos)
